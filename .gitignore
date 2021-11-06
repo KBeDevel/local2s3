@@ -1,0 +1,10 @@
+# Compiled resources
+build
+bin
+
+# Development env
+.env
+
+# IDE and code editors files
+.idea
+.vscode
